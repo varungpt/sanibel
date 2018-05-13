@@ -1,0 +1,79 @@
+#imBreadcrumb {float: left; margin-left: 6px; margin-right: 6px; width: 1098px;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 1106px; min-height: 220px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_1 { position: relative; width: 1100px; min-height: 214px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imCellStyle_1 > a { display: block; }
+#imCell_3 { display: block; position: relative; overflow: hidden; width: 512px; min-height: 369px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;}
+#imCellStyle_3 { position: relative; width: 512px; min-height: 361px; padding: 0px 0px 8px 0px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_3 { position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; background-color: #E0E0E0;}
+#imCellStyleGraphicsC_3 { position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; background: #E0E0E0 url('../') repeat center center;}
+#imCellStyleGraphicsB_3 { position: absolute; bottom: 0; left: 0px; right: 0px; height: 0px; background: #E0E0E0 url('../') repeat-x center bottom;}
+#imCellStyleGraphicsBL_3 { position: absolute; bottom: 0; left: 0; width: 0px; height: 0px; background: #E0E0E0 url('../') repeat left bottom;}
+#imCellStyleGraphicsBR_3 { position: absolute; bottom: 0; right: 0; width: 0px; height: 0px; background: #E0E0E0 url('../') repeat right bottom;}
+#imCellStyleGraphicsL_3 { position: absolute; top: 0px; bottom: 0px; left: 0; width: 0px; background: #E0E0E0 url('../') repeat-y left center;}
+#imCellStyleGraphicsR_3 { position: absolute; top: 0px; bottom: 0px; right: 0; width: 0px; background: #E0E0E0 url('../') repeat-y right center;}
+#imCellStyleGraphicsT_3 { position: absolute; top: 0; left: 0px; right: 0px; height: 0px; background: #E0E0E0 url('../') repeat-x center top;}
+#imCellStyleGraphicsTL_3 { position: absolute; top: 0; left: 0; width: 0px; height: 0px; background: #E0E0E0 url('../') repeat left top;}
+#imCellStyleGraphicsTR_3 { position: absolute; top: 0; right: 0; width: 0px; height: 0px; background: #E0E0E0 url('../') repeat right top;}
+#imTextObject_3 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_3_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_3_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_3_tab0 ul ul ul { list-style: circle; }
+#imTextObject_3_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_3_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_3_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_3_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_3_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_3_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_3_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_3_tab0 p { margin: 0; padding: 0; }
+#imTextObject_3_tab0 .inline-block { display: inline-block; }
+#imTextObject_3_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_3_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_3_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_3_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_3_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_3_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_3_tab0 img.fright { margin-left: 15px; }
+#imTextObject_3_tab0 .imUl { text-decoration: underline; }
+#imTextObject_3_tab0 .imVt { vertical-align: top; }
+#imTextObject_3_tab0 .imVc { vertical-align: middle; }
+#imTextObject_3_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_3_tab0 .ff1 { font-family: 'Arial'; }
+#imCell_4 { display: block; position: relative; overflow: hidden; width: 506px; min-height: 381px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px;}
+#imCellStyle_4 { position: relative; width: 500px; min-height: 375px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_4 { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; background-color: transparent; }
+#imObjectGallery_4 > div { margin: 0 auto; }
+#imContent #imObjectGallery_4 a:link, #imContent #imObjectGallery_4 a:hover, #imContent #imObjectGallery_4 a:visited, #imContent #imObjectGallery_4 a:active { border: none; background-color: transparent; text-decoration: none; }
+#imCell_2 { display: block; position: relative; overflow: hidden; width: 511px; min-height: 751px; padding-top: 5px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;}
+#imCellStyle_2 { position: relative; width: 511px; min-height: 680px; padding: 38px 0px 33px 0px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_2 { position: absolute; padding: 5px 0px 0px 0px; top: 15px; left: 0px; right: 0px; text-align: center; font-family: Arial; font-size: 11pt; font-style: normal; font-weight: bold; color: #000000; background-color: transparent; z-index: 4;}
+#imCellStyleDescription_2 { position: absolute; padding: 5px 5px 5px 5px; bottom: 5px; left: 5px; right: 5px; text-align: center; font-family: Tahoma; font-size: 8pt; font-style: normal; font-weight: bold; color: #004010; background-color: transparent; z-index: 3; overflow: hidden; }
+#imCellStyleGraphics_2 { position: absolute; top: 5px; bottom: 0px; left: 0px; right: 0px; background-color: transparent; }
+#imTextObject_2 { font-style: normal; font-weight: normal; line-height: 20px;; }
+#imTextObject_2_tab0 ul { list-style: disc; margin: 0 8px; padding: 0px; overflow: hidden; }
+#imTextObject_2_tab0 ul ul { list-style: square; padding: 0 0 0 20px; }
+#imTextObject_2_tab0 ul ul ul { list-style: circle; }
+#imTextObject_2_tab0 ul li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_2_tab0 ol { list-style: decimal; margin: 0px 15px; padding: 0px; }
+#imTextObject_2_tab0 ol ol { list-style: lower-alpha; padding: 0 0 0 20px; }
+#imTextObject_2_tab0 ol li { margin: 0 0 0 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_2_tab0 blockquote { margin: 0 0 0 15px; padding: 0; border: none; }
+#imTextObject_2_tab0 table { border: none; padding: 0; border-collapse: collapse; }
+#imTextObject_2_tab0 table td { border: 1px solid black; word-wrap: break-word; padding: 4px 3px 4px 3px; margin: 0; vertical-align: middle; }
+#imTextObject_2_tab0 p { margin: 0; padding: 0; }
+#imTextObject_2_tab0 .inline-block { display: inline-block; }
+#imTextObject_2_tab0 sup { vertical-align: super; font-size: smaller; }
+#imTextObject_2_tab0 sub { vertical-align: sub; font-size: smaller; }
+#imTextObject_2_tab0 img { border: none; margin: 0; vertical-align: text-bottom;}
+#imTextObject_2_tab0 .fleft { float: left; vertical-align: baseline;}
+#imTextObject_2_tab0 .fright { float: right; vertical-align: baseline;}
+#imTextObject_2_tab0 img.fleft { margin-right: 15px; }
+#imTextObject_2_tab0 img.fright { margin-left: 15px; }
+#imTextObject_2_tab0 .imUl { text-decoration: underline; }
+#imTextObject_2_tab0 .imVt { vertical-align: top; }
+#imTextObject_2_tab0 .imVc { vertical-align: middle; }
+#imTextObject_2_tab0 .imVb { vertical-align: bottom; }
+#imTextObject_2_tab0 .ff1 { font-family: 'Arial'; }
+#imTextObject_2_tab0 .cf1 { color: rgb(0, 64, 16); }
+#imTextObject_2_tab0 .fs13 { vertical-align: baseline; font-size: 13px; line-height: false; }
